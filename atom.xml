@@ -1,14 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Hexo</title>
-    <subtitle></subtitle>
+    <title>個人隨手筆記</title>
+    <subtitle>練習使用github-Page</subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
-      <name>John Doe</name>
+      <name>Eggbird</name>
     </author>
     <updated>2022-09-04T07:14:30.886Z</updated>
+    <category term="Java" />
+    <category term=" JavaScript" />
+    <category term=" React" />
     <entry>
         <id>http://example.com/2022/09/04/hello-world/</id>
         <title>Hello World</title>
